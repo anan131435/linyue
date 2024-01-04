@@ -1,0 +1,8 @@
+h1 {
+    color: red;
+}
+html,body {
+    max-width: 720px;
+    overflow-x: hidden;
+    margin: 0 auto;
+}
